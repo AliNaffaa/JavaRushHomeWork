@@ -12,6 +12,7 @@ public class Solution
         System.out.println("Я согласен на зарплату $3200/месяц в пятый год.");
         System.out.println("");
         System.out.println("Поцелуй мой блестящий металлический зад!");
-
+//
+        System.out.println("Поцелуй мой блестящий металлический зад!");
     }
 }
